@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dorapocket-techverse.netlify.app/sitemap.xml

@@ -59,7 +59,7 @@ export default function Navbar() {
           </div>
           <div className="leading-tight">
             <div className="text-[16.8px] font-[650] tracking-[-0.011em] text-zinc-100 light:text-zinc-900" style={{fontFamily:"Space Grotesk, Inter, sans-serif"}}>Dorapocket TechVerse</div>
-            <div className="text-[11px] text-zinc-400 -mt-[1px] tracking-wide light:text-zinc-500">Building Digital Futures</div>
+            <div className="text-[11px] text-zinc-400 -mt-[1px] tracking-wide light:text-zinc-500">Turning Ideas Into Digital Reality</div>
           </div>
         </Link>
 

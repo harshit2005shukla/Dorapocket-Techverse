@@ -58,9 +58,9 @@ export default function About() {
               A visionary entrepreneur and technology enthusiast dedicated to building innovative digital solutions that empower businesses, startups, and individuals. Focused on transforming ideas into impactful products through innovation, creativity, and a future-driven approach to technology.
             </p>
             <div className="mt-5 flex gap-3 text-[13.5px] text-zinc-300 light:text-zinc-700">
-              <a className="underline underline-offset-4" href="#">LinkedIn</a>
-              <a className="underline underline-offset-4" href="#">X</a>
-              <a className="underline underline-offset-4" href="#">Email</a>
+              <a className="underline underline-offset-4" href="www.linkedin.com/in/harshit-shukla-43a692295">LinkedIn</a>
+              <a className="underline underline-offset-4" href="https://x.com/harshit_2530">X</a>
+              <a className="underline underline-offset-4" href="harshitks2000j@gmail.com">Email</a>
             </div>
           </div>
         </div>

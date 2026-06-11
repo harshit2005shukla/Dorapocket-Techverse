@@ -10,16 +10,16 @@ export default function Footer() {
               <div className="h-10 w-10 rounded-[12px] brand-gradient flex items-center justify-center text-white font-bold" style={{fontFamily:"Space Grotesk, Inter, sans-serif"}}>D</div>
               <div>
                 <div className="text-[18px] font-[650] text-zinc-100 light:text-zinc-900 tracking-tight" style={{fontFamily:"Space Grotesk, Inter, sans-serif"}}>Dorapocket TechVerse</div>
-                <div className="text-[12.5px] text-zinc-400 light:text-zinc-600">Building Digital Futures</div>
+                <div className="text-[12.5px] text-zinc-400 light:text-zinc-600">Turning Ideas Into Digital Reality</div>
               </div>
             </div>
             <p className="mt-5 text-[15px] leading-relaxed text-zinc-400 max-w-sm light:text-zinc-600">
               A product-first technology studio crafting AI-powered SaaS, enterprise platforms, and delightful customer experiences for ambitious teams worldwide.
             </p>
             <div className="mt-6 flex items-center gap-3 text-zinc-400 light:text-zinc-600">
-              <a href="#" aria-label="X" className="h-9 w-9 rounded-full flex items-center justify-center border border-white/[0.13] hover:border-white/[0.32] transition light:border-zinc-300">𝕏</a>
-              <a href="#" aria-label="LinkedIn" className="h-9 w-9 rounded-full flex items-center justify-center border border-white/[0.13] hover:border-white/[0.32] transition light:border-zinc-300">in</a>
-              <a href="#" aria-label="GitHub" className="h-9 w-9 rounded-full flex items-center justify-center border border-white/[0.13] hover:border-white/[0.32] transition light:border-zinc-300">GH</a>
+              <a href="https://x.com/dorapockettech" aria-label="X" className="h-9 w-9 rounded-full flex items-center justify-center border border-white/[0.13] hover:border-white/[0.32] transition light:border-zinc-300">𝕏</a>
+              <a href="https://www.linkedin.com/in/dorapocket-techverse-587a30415" aria-label="LinkedIn" className="h-9 w-9 rounded-full flex items-center justify-center border border-white/[0.13] hover:border-white/[0.32] transition light:border-zinc-300">in</a>
+              <a href="https://github.com/dorapockettechverse2005" aria-label="GitHub" className="h-9 w-9 rounded-full flex items-center justify-center border border-white/[0.13] hover:border-white/[0.32] transition light:border-zinc-300">GH</a>
               <a href="#" aria-label="Dribbble" className="h-9 w-9 rounded-full flex items-center justify-center border border-white/[0.13] hover:border-white/[0.32] transition light:border-zinc-300">◌</a>
             </div>
           </div>
@@ -45,10 +45,10 @@ export default function Footer() {
           <div>
             <div className="text-[12.5px] uppercase tracking-widest text-zinc-500 light:text-zinc-500 mb-4">Reach us</div>
             <ul className="space-y-3 text-[14.6px] text-zinc-300 light:text-zinc-700">
-              <li>hello@dorapocket-techverse.com</li>
-              <li>+91 90000 28471</li>
-              <li>Bengaluru • Remote Global</li>
-              <li className="pt-1 text-zinc-400 light:text-zinc-600">Mon–Fri, 10am – 7pm IST</li>
+              <li>dorapockettechverse@gmail.com</li>
+              <li>+91 8009611728</li>
+              <li>Noida , Uttar Pradesh , India</li>
+              <li className="pt-1 text-zinc-400 light:text-zinc-600">Mon–Fri, 10am – 5pm IST</li>
             </ul>
           </div>
         </div>

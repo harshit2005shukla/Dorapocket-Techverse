@@ -83,7 +83,7 @@ export default function Home() {
   return (
     <>
       <SEO 
-        title="Dorapocket TechVerse — Building Digital Futures"
+        title="Dorapocket TechVerse — Turning Ideas Into Digital Reality"
         description="Premium technology company delivering AI solutions, SaaS products, full-stack development, and digital transformation for startups, enterprises, and institutions worldwide."
         url="https://dorapocket-techverse.com"
       />
@@ -102,6 +102,9 @@ export default function Home() {
             </h1>
             <p className="mt-7 text-[18.5px] md:text-[20.5px] leading-relaxed text-zinc-300 light:text-zinc-700 max-w-2xl">
               Dorapocket TechVerse is a premium product studio for ambitious teams. Full-stack engineering, AI, and product design — united to ship fast, look incredible, and scale cleanly.
+          <p>
+            Dorapocket TechVerse is a technology company specializing in software development, AI solutions, SaaS platforms, and digital transformation services.
+            </p>
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Link to="/contact" className="rounded-full px-6 h-[50px] inline-flex items-center font-semibold text-white brand-gradient shadow-lift">Book a strategy call</Link>

@@ -54,9 +54,11 @@ export default function Navbar() {
     <header className="sticky top-0 z-[60] frosted-nav">
       <div className="container-1280 h-[78px] flex items-center justify-between">
         <Link to="/" className="flex items-center gap-3">
-          <div className="h-9 w-9 rounded-[11px] brand-gradient flex items-center justify-center shadow-lift relative">
-            <span className="text-[15px] font-[700] tracking-tight text-white" style={{fontFamily:"Space Grotesk, Inter, sans-serif"}}>D</span>
-          </div>
+         <img
+                src="/favicon.png"
+                alt="Dorapocket TechVerse"
+                className="h-10 w-10 rounded-xl object-cover"
+                        />
           <div className="leading-tight">
             <div className="text-[16.8px] font-[650] tracking-[-0.011em] text-zinc-100 light:text-zinc-900" style={{fontFamily:"Space Grotesk, Inter, sans-serif"}}>Dorapocket TechVerse</div>
             <div className="text-[11px] text-zinc-400 -mt-[1px] tracking-wide light:text-zinc-500">Turning Ideas Into Digital Reality</div>

@@ -51,7 +51,11 @@ export default function About() {
       <div className="mt-24 grid lg:grid-cols-12 gap-10 items-center">
         <div className="lg:col-span-5">
           <div className="glass rounded-[28px] p-8">
-            <div className="h-20 w-20 rounded-2xl brand-gradient flex items-center justify-center text-white text-[30px] font-[700]" style={{fontFamily:"Space Grotesk, Inter, sans-serif"}}>HS</div>
+            <img
+                src="/harshit.jpg"
+                alt="Harshit Shukla"
+                className="w-20 h-20 rounded-2xl object-cover"
+                           />
             <div className="mt-5 text-[23px] font-[660] text-heading">Harshit Shukla</div>
             <div className="text-[13.8px] text-zinc-400 light:text-zinc-600">CEO & Founder, Dorapocket TechVerse</div>
             <p className="mt-4 text-[15.6px] text-muted leading-relaxed">
